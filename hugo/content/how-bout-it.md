@@ -2,5 +2,10 @@
 date = "2018-11-13T23:01:00+00:00"
 draft = true
 title = "how bout it"
+[[block_try]]
+description = "They're Great"
+image = "/uploads/2018/11/13/ns0mx2h.jpg"
+name = "Go Jacks"
+template = "first-template"
 
 +++
