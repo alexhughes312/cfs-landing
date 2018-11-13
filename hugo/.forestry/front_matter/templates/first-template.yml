@@ -12,4 +12,5 @@ fields:
   label: Content
   name: content
 pages:
+- hugo/content/form-try.md
 - hugo/content/posts/i-wonder.md
