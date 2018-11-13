@@ -1,0 +1,16 @@
+---
+label: first template
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  default: title
+  label: Title
+  name: title
+- type: textarea
+  default: content
+  label: Content
+  name: content
+pages:
+- hugo/content/form-try.md
+- hugo/content/posts/i-wonder.md
