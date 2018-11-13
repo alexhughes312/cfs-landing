@@ -11,3 +11,5 @@ fields:
   default: content
   label: Content
   name: content
+pages:
+- hugo/content/posts/i-wonder.md
