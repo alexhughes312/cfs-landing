@@ -20,5 +20,6 @@ fields:
     maxSize: '5'
   label: Image
 pages:
-- hugo/content/form-try.md
 - hugo/content/posts/i-wonder.md
+- hugo/content/form-try.md
+- hugo/content/form-try.md
