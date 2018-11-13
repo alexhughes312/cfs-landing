@@ -2,4 +2,12 @@
 label: first template
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  default: title
+  label: Title
+  name: title
+- type: textarea
+  default: content
+  label: Content
+  name: content
