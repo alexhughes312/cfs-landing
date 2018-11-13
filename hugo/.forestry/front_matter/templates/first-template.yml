@@ -1,8 +1,8 @@
 ---
-label: first template
+label: thing
 hide_body: false
 is_partial: true
-display_field: item-name
+display_field: name
 fields:
 - type: text
   name: name
