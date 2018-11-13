@@ -1,16 +1,24 @@
 ---
 label: first template
 hide_body: false
-is_partial: false
+is_partial: true
+display_field: item-name
 fields:
 - type: text
-  default: title
-  label: Title
-  name: title
-- type: textarea
-  default: content
-  label: Content
-  name: content
+  name: name
+  label: Name
+  config:
+    required: true
+  default: ''
+- type: text
+  name: description
+  label: Description
+  default: ''
+- type: file
+  name: image
+  config:
+    maxSize: '5'
+  label: Image
 pages:
 - hugo/content/form-try.md
 - hugo/content/posts/i-wonder.md
