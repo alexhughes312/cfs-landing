@@ -24,10 +24,10 @@ rules:
   # https://github.com/eslint/eslint/tree/master/docs/rules#best-practices
   no-fallthrough: 2
   no-redeclare: 2
-  
+
   # Browser compatibility
   compat/compat: error
-  
+
   # Webpack import support
   import/default: 0
 
