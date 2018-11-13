@@ -1,0 +1,10 @@
+---
+label: Inventory
+hide_body: false
+is_partial: false
+fields:
+- type: blocks
+  template_types:
+  - first-template
+  label: block try
+  name: block_try
