@@ -8,3 +8,5 @@ fields:
   - first-template
   label: block try
   name: block_try
+pages:
+- hugo/content/how-bout-it.md
